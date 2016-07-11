@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/Eric/Code/Web-related-code/Ofssam/Eric/titan-crm/node_modules/lodash/_wrapperClone.js",
+        "C:/Users/Eric/Code/Web-related-code/Ofssam/Eric/titan-crm/src/controllers/quoteController.js"
+    ]
+}

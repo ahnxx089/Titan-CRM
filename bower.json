@@ -1,0 +1,17 @@
+{
+  "name": "ofssam-crm",
+  "description": "Ofssam's enterprise-grade customer relationship management application",
+  "main": "app.js",
+  "authors": [
+    "Anurag Bhandari"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
